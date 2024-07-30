@@ -1,2 +1,2 @@
 # ML-Based-Classification-of-Microscopic-Colitis
-Files from research done during the spring/summer of 2023. Funded under a grant from the Deans Distinguished Fellowship at the University of Wisconsin-La Crosse.
+Code and Publication from research performed during the spring/summer of 2023. The project was funded through a grant from the Deans Distinguished Fellowship at the University of Wisconisn La Crosse.
